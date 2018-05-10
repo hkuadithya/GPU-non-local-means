@@ -1,6 +1,6 @@
 # GPU Acclerated Non Local means (CUDA)
 
-This project was completed as a part of the [CS5234 Advanced Parallel Computing course](https://www.cs.vt.edu/graduate/courses/CS5234) at Virginia Tech.
+This project was completed as a part of the [CS5234 Advanced Parallel Computing](https://www.cs.vt.edu/graduate/courses/CS5234) course at Virginia Tech.<br/>
 In this project, a GPU accelerated version of [Non Local Means](Non%20Local%20Means%20Paper.pdf) is developed.
 
 The project was developed using Nvidia CUDA framework, C++ and Matlab.
