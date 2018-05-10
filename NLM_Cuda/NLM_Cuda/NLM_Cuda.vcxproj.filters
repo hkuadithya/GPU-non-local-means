@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="getopt.h" />
+    <ClInclude Include="gpu_device_code.cuh" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="host_code.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="gpu_device_code.cu" />
+  </ItemGroup>
+</Project>
