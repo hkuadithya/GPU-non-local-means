@@ -77,4 +77,4 @@ This project is licensed under the Apache 2.0 LICENSE - see the [LICENSE.md](LIC
 
 ## Acknowledgments
 
-The author thank his family and the open source community.
+The author thanks his family and the open source community.
