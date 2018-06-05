@@ -30,7 +30,7 @@ Please make sure that the aforementioned prerequisites are fulfilled.
 1. First go to your [ProjectFiles](ProjectFiles) directory
 	- Inside the folder, run the script [data_transform.m](ProjectFiles/data_transform.m) in Matlab.
 	- The script will read the [ms_lesions.mat](ProjectFiles/ms_lesions.m) files and add Gaussian White Noise
-	- This script will generate [input.bin](ProjectFiles/input.bin] binary file.
+	- This script will generate <a href="https://github.com/hkuadithya/GPU-non-local-means/blob/master/ProjectFiles/input.bin">input.bin</a> binary file.
 	- The generated binary file will be parsed by C++ and CUDA code
 
 2. Next, import the [NLM_Cuda](NLM_Cuda) project in your Visual Studio IDE 
